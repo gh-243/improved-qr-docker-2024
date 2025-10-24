@@ -55,7 +55,7 @@ python -m pytest --cov=main --cov-report=term-missing
 
 1.  Add an image of viewing the log of successfully creating the QR code below.
 
-PUT YOUR LOG IMAGE HERE
+![QR Code Generation Log](qr_codes/log_screenshot.png)
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
